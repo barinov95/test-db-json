@@ -32,25 +32,23 @@
     },
     {
       "id": 82342345,
-      "category": 'food',
-      "title": 'Happy Food Day',
-      "description": 'Find your new dishes and best recipes.',
-      "location": 'Meow Town',
-      "date": 'January 30, 2022',
-      "time": '14:30',
-      "petAllowed": false,
-      "organizer": 'Max Mustermann'
+      "category": "food",
+      "title": "Happy Food Day",
+      "description": "Find your new dishes and best recipes.",
+      "location": "Meow Town",
+      "date": "January 30, 2022",
+      "time": "14:30",
+      "organizer": "Max Mustermann"
    },
    {
       "id": 120423648,
-      "category": 'travel',
-      "title": 'Best Travel Meetup',
-      "description": 'Find best routes to explore Meow Town',
-      "location": 'Meow Town',
-      "date": 'January 12, 2022',
-      "time": '17:00',
-      "petAllowed": true,
-      "organizer": 'Alex Explorer'
+      "category": "travel",
+      "title": "Best Travel Meetup",
+      "description": "Find best routes to explore Meow Town",
+      "location": "Meow Town",
+      "date": "January 12, 2022",
+      "time": "17:00",
+      "organizer": "Alex Explore"
   }
   ]
 }
